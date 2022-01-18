@@ -1,0 +1,116 @@
+annee	famille	type_collectivites	hommes	femmes	age_moy_hommes	age_moy_femmes	nombre_employeurs	
+2015	FPH	Centres hospitaliers régionaux	59952	232350	44.7	42.4	77	
+2016	FPH	Centres de soins avec/sans hébergement	1332	4439	47.2	45.8	23	
+2016	FPH	Centres hébergement personnes âgées	7776	54089	46.3	45.3	1113	
+2016	FPT	Autres établissements territoriaux	44473	48564	46.5	46.1	799	
+2016	FPT	Communautés de communes	 de villes	22744	33950	45.7	44.1	1204
+2016	FPT	Communes	342490	463071	47.1	47.3	30847	
+2016	FPT	Syndicats	21066	19058	45.8	45.7	6218	
+2017	FPH	Autres collectivités hospitalières	6011	20783	45.9	44.4	58	
+2017	FPH	Centres hospitaliers spécialisés	12179	32506	45.6	44.6	47	
+2017	FPH	Ets publics à caractère sanitaire et social	5926	16581	47.2	45.5	196	
+2017	FPT	Offices publics de l'habitat	5532	5147	52.8	52.0	228	
+2017	FPT	SDIS	43812	8222	42.8	44.5	97	
+2017	FPT	Syndicats	20875	19159	46.0	46.0	5924	
+2018	FPH	Centres hospitaliers généraux	76847	378985	45.6	44.1	543	
+2018	FPT	Autres établissements territoriaux	48320	55537	46.9	46.6	768	
+2018	FPT	Communautés urbaines	 districts	6128	3871	46.9	46.8	10
+2018	FPT	Départements	77273	144430	48.5	48.3	98	
+2018	FPT	Régions	30194	43957	49.4	50.1	17	
+2019	FPH	Centres hospitaliers généraux	75924	378698	45.8	44.2	558	
+2015	FPH	Centres hospitaliers spécialisés	12916	33933	45.3	44.1	48	
+2019	FPH	Centres hospitaliers régionaux	56563	232274	44.6	42.7	77	
+2015	FPH	Ets publics à caractère sanitaire et social	6079	16337	46.9	45.1	199	
+2019	FPH	Ets publics à caractère sanitaire et social	5815	16584	47.6	45.8	187	
+2015	FPT	Autres établissements territoriaux	44987	48095	46.0	45.6	791	
+2019	FPT	Communautés urbaines	 districts	8003	4817	46.7	46.8	13
+2015	FPT	Centres d'action sociale	9800	69810	46.9	46.8	2668	
+2019	FPT	Départements	75902	140028	48.7	48.5	97	
+2015	FPT	Offices publics de l'habitat	6634	5975	51.9	51.0	248	
+2019	FPT	Syndicats	20934	19537	46.4	46.6	5436	
+2015	FPT	Régions	28666	41464	48.1	48.7	26	
+2020	FPH	Centres de soins avec/sans hébergement	1280	4503	47.3	46.4	24	
+2015	FPT	Syndicats	21134	18923	45.5	45.3	6523	
+2020	FPH	Centres hospitaliers spécialisés	11869	32501	46.1	45.1	45	
+2016	FPH	Centres hospitaliers spécialisés	12522	32977	45.5	44.4	47	
+2020	FPT	Centres d'action sociale	9863	70372	47.9	48.1	2571	
+2016	FPT	Régions	30313	43689	48.7	49.3	18	
+2020	FPT	Communautés de communes	 de villes	22710	35649	46.3	45.2	999
+2017	FPH	Centres hébergement personnes âgées	7739	54193	46.7	45.6	1109	
+2020	FPT	Communautés urbaines	 districts	8031	4895	46.9	47.1	13
+2017	FPT	Autres établissements territoriaux	46173	53231	46.7	46.3	782	
+2020	FPT	Départements	76343	140364	48.8	48.7	96	
+2017	FPT	Départements	79913	148126	48.3	48.1	98	
+2017	FPT	Régions	30699	44161	49.1	49.7	17	
+2018	FPH	Centres hébergement personnes âgées	7732	54192	47.0	45.8	1103	
+2018	FPH	Hôpitaux locaux	4342	28711	47.1	45.4	195	
+2018	FPT	Centres d'action sociale	9787	70578	47.5	47.6	2603	
+2018	FPT	Offices publics de l'habitat	4998	4728	53.2	52.5	217	
+2018	FPT	Syndicats	20955	19722	46.2	46.3	5738	
+2019	FPT	SDIS	44210	8434	43.2	45.1	97	
+2020	FPH	Autres collectivités hospitalières	6802	23591	45.8	44.7	54	
+2020	FPT	Métropole	37202	24476	47.1	47.2	22	
+2020	FPT	Syndicats	20812	19652	46.5	46.8	5307	
+2015	FPH	Centres hébergement personnes âgées	7840	53915	46.1	44.9	1126	
+2015	FPH	Hôpitaux locaux	5513	34793	46.6	44.7	265	
+2015	FPT	Communautés de communes	 de villes	22556	32586	45.5	43.7	1837
+2015	FPT	Départements	81267	152378	47.8	47.5	101	
+2016	FPH	Centres hospitaliers généraux	78768	381536	45.4	43.7	514	
+2016	FPT	Centres d'action sociale	9827	70571	47.2	47.1	2656	
+2016	FPT	Métropole	28861	19188	46.4	46.2	14	
+2016	FPT	SDIS	44008	8184	42.3	43.9	97	
+2017	FPT	Centres d'action sociale	9861	70780	47.4	47.4	2620	
+2017	FPT	Communautés urbaines	 districts	7513	4648	46.7	46.4	11
+2018	FPH	Centres hospitaliers régionaux	58573	231871	44.8	42.7	77	
+2018	FPT	Communautés de communes	 de villes	21403	32783	46.1	44.7	1018
+2018	FPT	Métropole	35641	23314	46.8	46.7	22	
+2019	FPH	Autres collectivités hospitalières	6764	23331	45.8	44.6	55	
+2019	FPT	Communautés de communes	 de villes	22015	34090	46.2	45.0	1001
+2019	FPT	Communes	325843	458156	47.5	48.1	30248	
+2019	FPT	Offices publics de l'habitat	4260	4204	53.6	52.8	209	
+2019	FPT	Régions	30589	44382	49.7	50.3	17	
+2020	FPH	Centres hospitaliers régionaux	56566	228618	44.7	42.8	76	
+2020	FPT	Autres établissements territoriaux	49595	58725	47.3	47.1	763	
+2015	FPH	Autres collectivités hospitalières	6127	20392	45.5	43.8	70	
+2015	FPH	Centres hospitaliers généraux	78646	377948	45.2	43.4	508	
+2015	FPT	SDIS	44181	8171	41.8	43.3	97	
+2016	FPH	Ets publics à caractère sanitaire et social	6063	16622	47.1	45.4	198	
+2016	FPH	Hôpitaux locaux	5206	33400	46.9	45.1	245	
+2016	FPT	Communautés urbaines	 districts	4620	2734	46.6	46.1	11
+2017	FPH	Centres hospitaliers généraux	77495	378106	45.6	43.9	522	
+2017	FPT	Communautés de communes	 de villes	20753	31295	46.0	44.4	1041
+2017	FPT	Communes	335099	461128	47.3	47.6	30796	
+2017	FPT	Métropole	32560	21065	46.6	46.5	21	
+2018	FPH	Autres collectivités hospitalières	5701	20011	45.9	44.5	59	
+2018	FPT	Communes	329807	458820	47.4	47.8	30450	
+2019	FPH	Centres hébergement personnes âgées	7700	54125	47.2	46.1	1093	
+2019	FPH	Centres hospitaliers spécialisés	11810	32002	45.9	45.0	45	
+2019	FPH	Hôpitaux locaux	3742	25411	47.2	45.6	165	
+2019	FPT	Autres établissements territoriaux	48162	57074	47.2	46.9	764	
+2019	FPT	Centres d'action sociale	9827	70489	47.7	47.8	2586	
+2020	FPH	Centres hospitaliers généraux	76039	382405	46.0	44.4	556	
+2020	FPH	Ets publics à caractère sanitaire et social	5750	16690	47.9	45.9	186	
+2020	FPH	Hôpitaux locaux	3620	24598	47.2	45.7	154	
+2020	FPT	Communes	323661	459249	47.6	48.3	30109	
+2020	FPT	Régions	30843	44643	50.0	50.7	17	
+2020	FPT	SDIS	44830	8530	43.5	45.4	97	
+2015	FPH	Centres de soins avec/sans hébergement	1349	4462	46.9	45.4	24	
+2015	FPT	Communautés urbaines	 districts	7030	2755	46.4	46.2	8
+2015	FPT	Communes	348127	462658	46.8	46.9	31648	
+2015	FPT	Métropole	22215	15648	46.2	46.0	12	
+2016	FPH	Autres collectivités hospitalières	6167	20960	45.8	44.1	62	
+2016	FPH	Centres hospitaliers régionaux	59854	233548	44.8	42.6	77	
+2016	FPT	Départements	80471	149769	48.1	47.8	100	
+2016	FPT	Offices publics de l'habitat	6013	5576	52.3	51.5	243	
+2017	FPH	Centres de soins avec/sans hébergement	1299	4298	47.2	46.0	23	
+2017	FPH	Centres hospitaliers régionaux	59306	232658	44.8	42.8	77	
+2017	FPH	Hôpitaux locaux	5292	34028	47.1	45.3	230	
+2018	FPH	Centres de soins avec/sans hébergement	1285	4233	47.3	46.3	23	
+2018	FPH	Centres hospitaliers spécialisés	12007	32364	45.7	44.8	46	
+2018	FPH	Ets publics à caractère sanitaire et social	5866	16572	47.4	45.6	192	
+2018	FPT	SDIS	43480	8194	43.2	45.0	97	
+2019	FPH	Centres de soins avec/sans hébergement	1253	4246	47.4	46.4	23	
+2019	FPT	Métropole	36756	24114	46.9	46.9	22	
+2020	FPH	Centres hébergement personnes âgées	7622	54226	47.5	46.4	1089	
+2020	FPT	Offices publics de l'habitat	3751	3693	54.1	53.4	189	
+
