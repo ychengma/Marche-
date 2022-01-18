@@ -1,5 +1,6 @@
-print('test')
-
+"""
+    Test le code
+"""
 def add(a,b):
     return a + b
 
